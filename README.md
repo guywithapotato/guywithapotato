@@ -2,7 +2,7 @@
 - 👀 I’m interested in planes, tech etc.
 - 🌱 I’m currently learning mongodb
 - 😄 Pronouns: male
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: not yet
 
 <!---
 guywithapotato/guywithapotato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
