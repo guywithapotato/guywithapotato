@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @guywithapotato
+- 👋 Hi, I’m guywithapotato (potato/gwap/vel for short)
 - 👀 I’m interested in planes, tech etc.
-- 🌱 I’m currently learning mongodb
+- 🌱 I’m not really learning anything rn
 - 😄 Pronouns: male
-- ⚡ Fun fact: not yet
+- ⚡ Fun fact: still nothing
 
 <!---
 guywithapotato/guywithapotato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
