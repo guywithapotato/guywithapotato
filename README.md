@@ -3,31 +3,20 @@
 ## 🧠 about me
 
 * 🧑‍💻 student / builder / professional tinkerer
-* 🌐 building weird networks (Meshify)
-* 🖥️ linux enjoyer (kde + fedora arc)
+* 🌐 building weird stuff
+* 🖥️ linux enjoyer
 * 🧪 breaking things just to understand them
 
 ---
 
 ## 🚀 projects
 
-### 🌐 Meshify
-
-> experimental mesh network across istanbul
-
-* ⚡ custom node infrastructure
-* 📡 wireless backhaul experiments
-* 🔐 WPA3 enterprise setup
-* 🧠 constantly evolving
-
----
-
-### 🐒 untitledgame(VR)
+### 🐒 untitledtagginggame(VR)
 
 > gorilla tag–style vr game
 
 * 🌲 custom forest map
-* 🎮 mod menu system
+* 🎮 playable on a potato
 * 🕶️ built for steamvr
 
 ---
@@ -45,7 +34,7 @@
 ## 🛠️ stack
 
 * **OS:** Fedora KDE
-* **Languages:** Python, a bit of JS
+* **Languages:** lua, a bit of js
 * **Infra:** Linux, networking, self-hosting
 * **Tools:** Git, Docker (learning), random CLI stuff
 
