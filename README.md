@@ -1,10 +1,76 @@
-- 👋 Hi, I’m guywithapotato (potato/gwap/vel for short)
-- 👀 I’m interested in planes, tech etc.
-- 🌱 I’m not really learning anything rn
-- 😄 Pronouns: male
-- ⚡ Fun fact: still nothing
+# 👋 hey, i'm sarp
 
-<!---
-guywithapotato/guywithapotato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧠 about me
+
+* 🧑‍💻 student / builder / professional tinkerer
+* 🌐 building weird networks (Meshify)
+* 🖥️ linux enjoyer (kde + fedora arc)
+* 🧪 breaking things just to understand them
+
+---
+
+## 🚀 projects
+
+### 🌐 Meshify
+
+> experimental mesh network across istanbul
+
+* ⚡ custom node infrastructure
+* 📡 wireless backhaul experiments
+* 🔐 WPA3 enterprise setup
+* 🧠 constantly evolving
+
+---
+
+### 🐒 untitledgame(VR)
+
+> gorilla tag–style vr game
+
+* 🌲 custom forest map
+* 🎮 mod menu system
+* 🕶️ built for steamvr
+
+---
+
+### 🖨️ 3D printing stuff
+
+> robotics + rapid prototyping
+
+* ⚙️ functional parts (FTC, etc.)
+* 🧩 custom designs
+* ⚡ high-speed printing experiments
+
+---
+
+## 🛠️ stack
+
+* **OS:** Fedora KDE
+* **Languages:** Python, a bit of JS
+* **Infra:** Linux, networking, self-hosting
+* **Tools:** Git, Docker (learning), random CLI stuff
+
+---
+
+## 📡 current obsessions
+
+* mesh networking
+* fiber / ISP infrastructure
+* self-hosting everything
+* AI locally (ollama, etc.)
+
+---
+
+## ⚡ fun facts
+* i like taking things apart more than using them
+* i will optimize anything for no reason
+
+---
+
+## 📫 contact
+
+* github: @guywithapotato (you are here)
+* sarpaltunkaya@gmail.com
+
+---
+
+> "if it works, i probably broke it first"
