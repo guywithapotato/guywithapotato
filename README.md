@@ -1,6 +1,6 @@
 ts so cringe i js realised this
 
-# 👋 hey, i'm sarp
+# 👋 hey, i'm vel
 
 ## 🧠 about me
 
